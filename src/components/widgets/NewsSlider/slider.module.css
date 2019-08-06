@@ -1,0 +1,28 @@
+.featuredItem{
+    position: relative;
+
+}
+
+.featuredItem a{
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    text-decoration: none;
+    right: 0px;
+}
+
+.featuredImg{
+    height: 330px;
+    background-size: cover !important;
+
+}
+
+.featuredCaption {
+    color: #ffffff;
+    top: 0;
+    width: 100%;
+    padding: 20px;
+    font-weight: 300;
+    font-size: 28px;
+    box-sizing: border-box;
+}
