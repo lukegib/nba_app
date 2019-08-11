@@ -1,4 +1,15 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+# NBA React App
+This is a clone of the NBA web app. It was created with React and uses Firebase for its database. The project was done through the course link this --"The complete React Fullstack course".
+
+link to app ->>>>
+
+### screenshots
+
+### features
+- A home page with sections for news and videos as well as dedicated news and videos pages each with dynamic loading.
+- Logging in and logging out with authentication via firebase.
+- Posting section for new articles if user is logged in.
 
 ## Available Scripts
 
