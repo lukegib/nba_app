@@ -8,6 +8,7 @@ Note: the app is only optimized for mobile.
 
 ### Screenshots
 
+<img src="screenshots/nba_home.PNG" alt="home/landing page" width="200"/>
 ![Home/landing page](screenshots/nba_home.PNG)
 ![Navigation before sign in](screenshots/before_signin.PNG)
 ![Register/Sign In page](screenshots/register.PNG)
