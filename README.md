@@ -8,12 +8,11 @@ Note: the app is only optimized for mobile.
 
 ### Screenshots
 
-<img src="screenshots/nba_home.PNG" alt="home/landing page" width="200"/>
-![Home/landing page](screenshots/nba_home.PNG)
-![Navigation before sign in](screenshots/before_signin.PNG)
-![Register/Sign In page](screenshots/register.PNG)
-![Navigation after sign in](screenshots/after_signin.PNG)
-![User dashboard/ posting new articles](screenshots/dashboard.PNG)
+<img src="screenshots/nba_home.PNG" alt="home/landing page" width="300"/>
+<img src="screenshots/before_signin." alt="navigation before sign in" width="300"/>
+<img src="screenshots/register.PNG" alt="register/sign in page" width="300"/>
+<img src="screenshots/after_signin.PNG" alt="navigation after sign in" width="300"/>
+<img src="screenshots/dashboard.PNG" alt="dashboard" width="300"/>
 
 ### Features
 - A home page with sections for news and videos as well as dedicated news and videos pages, each with dynamic loading.
