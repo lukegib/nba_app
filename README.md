@@ -1,13 +1,21 @@
 
 # NBA React App
-This is a clone of the NBA web app. It was created with React and uses Firebase for its database. The project was done through the course link this --"The complete React Fullstack course".
+This is a clone of the NBA mobile web app. It was created with React and uses Firebase for its database. The project was done through the course [The complete React Fullstack course](https://www.udemy.com/the-complete-react-fullstack-course/ "The complete React Fullstack course").
 
-link to app ->>>>
+Link to hosted app ---> https://nba-full-ee548.firebaseapp.com/
 
-### screenshots
+Note: the app is only optimized for mobile. 
 
-### features
-- A home page with sections for news and videos as well as dedicated news and videos pages each with dynamic loading.
+### Screenshots
+
+![Home/landing page](screenshots/nba_home.PNG)
+![Navigation before sign in](screenshots/before_signin.PNG)
+![Register/Sign In page](screenshots/register.PNG)
+![Navigation after sign in](screenshots/after_signin.PNG)
+![User dashboard/ posting new articles](screenshots/dashboard.PNG)
+
+### Features
+- A home page with sections for news and videos as well as dedicated news and videos pages, each with dynamic loading.
 - Logging in and logging out with authentication via firebase.
 - Posting section for new articles if user is logged in.
 
